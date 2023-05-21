@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\Prazol-Malla\Prazol-Malla-NCC\DBExample\DBExample\bin\Debug\DBExample.exe.config
+C:\Users\Dell\Desktop\Prazol-Malla\Prazol-Malla-NCC\DBExample\DBExample\bin\Debug\DBExample.exe
+C:\Users\Dell\Desktop\Prazol-Malla\Prazol-Malla-NCC\DBExample\DBExample\bin\Debug\DBExample.pdb
+C:\Users\Dell\Desktop\Prazol-Malla\Prazol-Malla-NCC\DBExample\DBExample\obj\Debug\DBExample.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Prazol-Malla\Prazol-Malla-NCC\DBExample\DBExample\obj\Debug\DBExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Prazol-Malla\Prazol-Malla-NCC\DBExample\DBExample\obj\Debug\DBExample.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Prazol-Malla\Prazol-Malla-NCC\DBExample\DBExample\obj\Debug\DBExample.exe
+C:\Users\Dell\Desktop\Prazol-Malla\Prazol-Malla-NCC\DBExample\DBExample\obj\Debug\DBExample.pdb
